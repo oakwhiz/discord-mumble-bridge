@@ -22,7 +22,7 @@ var dataUriToBuffer = require('data-uri-to-buffer');
 var Discord = require("discord.js");
 var discordClient = new Discord.Client();
 
-var mumble = require('mumble'),
+var mumble = require('mumble');
 var fs = require('fs');
 
 /////////////////////////
